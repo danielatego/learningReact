@@ -5,11 +5,36 @@
 //     //love.appendChild(node);
 //     //v.appendChild(love);
 // }
-const love = document.createElement('h1')
-love.textContent='I love to go to church'
-love.className = 'header'
-console.log(love)
+// const love = document.createElement('h1')
+// love.textContent='I love to go to church'
+// love.className = 'header'
+// console.log(love)
+//import React from 'react';
+//import ReactDOM from 'react-dom';
 
-const element  = <h1 className = "mt-5">This is JSX.</h1>
-console.log(element);
-ReactDOM.render(element,document.querySelector('#root'))
+// const mama = (
+    
+// )
+// console.log(mama)
+// // console.log(mama);
+// ReactDOM.render(
+//     <nav>
+//         <div className = "row">
+//             <h1 className = "col">
+//                 Prepare
+//             </h1>
+//             <ul className = "col">
+//                 <li className = "col">Pricing</li>
+//                 <li className = "col">About</li>
+//                 <li className = "col">Contacts</li>
+//             </ul>
+//         </div>
+//     </nav> ,
+//     document.querySelector('#root')
+// )
+
+// var _foo = () => {
+//     return "Hello World"
+//  };
+ 
+//  alert(_foo());
